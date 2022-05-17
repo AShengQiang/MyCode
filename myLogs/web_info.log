@@ -1,0 +1,31 @@
+2022-05-02 15:10:35.718 [main] INFO  com.demo.DemoApplication - Starting DemoApplication using Java 1.8.0_212 on shengsheng with PID 14752 (D:\study\maven-projects\servicecomb2\Second-kill\target\classes started by Administrator in D:\study\maven-projects\servicecomb2\Second-kill)
+2022-05-02 15:10:35.722 [main] INFO  com.demo.DemoApplication - No active profile set, falling back to 1 default profile: "default"
+2022-05-02 15:10:36.826 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2022-05-02 15:10:36.834 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2022-05-02 15:10:36.835 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2022-05-02 15:10:36.836 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.62]
+2022-05-02 15:10:36.981 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2022-05-02 15:10:36.982 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1223 ms
+2022-05-02 15:10:37.422 [main] INFO  c.a.d.s.b.a.DruidDataSourceAutoConfigure - Init DruidDataSource
+2022-05-02 15:10:37.816 [main] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} inited
+2022-05-02 15:10:38.043 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2022-05-02 15:10:38.067 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2022-05-02 15:10:38.077 [main] INFO  com.demo.DemoApplication - Started DemoApplication in 2.873 seconds (JVM running for 4.781)
+2022-05-02 15:11:20.543 [main] INFO  com.demo.DemoApplication - Starting DemoApplication using Java 1.8.0_212 on shengsheng with PID 13996 (D:\study\maven-projects\servicecomb2\Second-kill\target\classes started by Administrator in D:\study\maven-projects\servicecomb2\Second-kill)
+2022-05-02 15:11:20.547 [main] INFO  com.demo.DemoApplication - No active profile set, falling back to 1 default profile: "default"
+2022-05-02 15:11:21.528 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2022-05-02 15:11:21.535 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2022-05-02 15:11:21.535 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2022-05-02 15:11:21.536 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.62]
+2022-05-02 15:11:21.651 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2022-05-02 15:11:21.651 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1058 ms
+2022-05-02 15:11:21.999 [main] INFO  c.a.d.s.b.a.DruidDataSourceAutoConfigure - Init DruidDataSource
+2022-05-02 15:11:22.279 [main] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} inited
+2022-05-02 15:11:22.430 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2022-05-02 15:11:22.448 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2022-05-02 15:11:22.457 [main] INFO  com.demo.DemoApplication - Started DemoApplication in 2.412 seconds (JVM running for 3.842)
+2022-05-02 15:11:47.027 [http-nio-8080-exec-1] INFO  org.apache.tomcat.util.http.parser.Cookie - A cookie header was received [freePromorunningtmr=Fri Jan 02 1970 04:23:51 GMT+0800 (中国标准时间)] that contained an invalid cookie. That cookie will be ignored.
+ Note: further occurrences of this error will be logged at DEBUG level.
+2022-05-02 15:11:47.033 [http-nio-8080-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-05-02 15:11:47.034 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2022-05-02 15:11:47.036 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 1 ms
